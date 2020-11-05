@@ -1,2 +1,2 @@
-# IRMS
-Iteratively Refined Multiresolution Spectrogram (IRMS): an efficient adaptive multiresolution spectrogram written in Python.
+# Iteratively Refined Multiresolution Spectrogram (IRMS)
+An efficient adaptive multiresolution spectrogram written in Python.
